@@ -1,9 +1,11 @@
 Title: Restaurant-Automation-System.
+
 Objective: The primary objective of this project is to develop an application in order to effectively run the restaurant.
 
 Technologies: Java 8 SE, MySQL 5.6, JSwing, Oracle's JavaMail API 1.5.4, JUnit.
+
 Tools & Platform: Netbeans IDE, MySQL Workbench, Taiga.io (User Stories, Tasks, estimation, backlog and Sprint management), Git (Version Control), JDBC, Apache Tomcat, JUnit (Unit Testing Framework), Hudson (Continuous Integration)
-Concepts: 
+
 Team size: 4
 
 Functionality : The application has been implemented using Agile Methodologies & MVC architecture with design patterns such as Strategy, Factory, Singleton, Decorator, Command that can handle the ordering process.
